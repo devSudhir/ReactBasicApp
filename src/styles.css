@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.my-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mynav-nav-items {
+  list-style: none;
+  display: flex;
+}
+
+.mynav-nav-items > li {
+  padding: 5px;
+}
+
+.mynav-icon {
+  width: 30px;
+  height: 30px;
+}
